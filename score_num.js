@@ -1,1 +1,1 @@
-async function getData(){const course = "66_生物系统测量（英语）_健康人体物联网（双语）_形势与政策（4）_医学信息学（双语）_形势与政策(3)";return course;}getData().then((course) => {console.log(course);return course;}); 
+async function getData(){const course = "67_生物系统测量（英语）_脑科学基础（双语）_健康人体物联网（双语）_形势与政策（4）_医学信息学（双语）_形势与政策(3)";return course;}getData().then((course) => {console.log(course);return course;}); 
