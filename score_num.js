@@ -1,1 +1,1 @@
-async function getData(){const course = "72_生物系统测量（英语）_脑科学基础（双语）_健康人体物联网（双语）_形势与政策（4）_生物医学光子学（英）_医学成像技术及系统（英）_中国历史地理（在线式）_形势与政策(3)_大学日语_影像诊断学（英）_医学信息学（双语）";return course;}getData().then((course) => {console.log(course);return course;}); 
+async function getData(){const course = "73_生物系统测量（英语）_脑科学基础（双语）_健康人体物联网（双语）_形势与政策（4）_生物医学光子学（英）_医学成像技术及系统（英）_中国历史地理（在线式）_形势与政策(3)_大学日语_数字图像处理（英）_影像诊断学（英）_医学信息学（双语）";return course;}getData().then((course) => {console.log(course);return course;}); 
